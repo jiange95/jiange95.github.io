@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://myfebu.com
+url: http://jiange.info
 date_format: "ordinal"
-title: Rm
+title: JanGe95
 subtitle: "公众号：待续"
-description: "Rm 闷骚程序呀"
-keywords: Rm,Riven,Rmeng,Meng
+description: "JanGe95 "
+keywords: JanGe95,JanGe,95,jiange
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
