@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://jiange.info
+url: https://jiange.info
 date_format: "ordinal"
 title: JanGe95
 subtitle: "公众号：待续"
